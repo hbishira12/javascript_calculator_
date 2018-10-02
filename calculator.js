@@ -13,7 +13,7 @@
   oper=prompt("Type an operator");
 */
   if(choice=="+"){
-    total= (value1)+(+value2);
+    total= (+value1)+(+value2);
   }
   else if(choice=="/"){
     total=(+value1)/(+value2);
